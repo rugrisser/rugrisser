@@ -1,9 +1,7 @@
 🙂 My name is Vyacheslav Ryzhkov
 
-🛠 My hard skills: Backend (Kotlin/Spring), Android, Frontend (Vue), DevOps and System administration (Docker)
+🛠 Work in e-com, having 4.5 years of experience in Kotlin/Spring stack
 
 🪪 Follow my [LinkedIn](https://www.linkedin.com/in/vryzhkov/?locale=en_US)
 
-💬 Get in touch with me via [Telegram](https://t.me/rugrisser) or [VK](https://vk.com/rugrisser)
-
-🌐 Other social networks: [Instagram](https://instagram.com/rugrisser), [Twitter](https://twitter.com/rugrisser)
+💬 Get in touch with me via [Telegram](https://t.me/rugrisser)
